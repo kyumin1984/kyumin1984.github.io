@@ -18,9 +18,9 @@ timezone: Asia/Seoul
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: I'am Developer                          # the main title
+title: I'am Developer.                          # the main title
 
-tagline: Do It Now.   # it will display as the sub-title
+tagline: Do It Now!   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   A minimal, portfolio, sidebar,
