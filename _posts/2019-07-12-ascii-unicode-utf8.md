@@ -16,7 +16,7 @@ tags: [UTF-8, Encoding]
 
 아래 그림처럼 0 ~ 127 까지 고유한 값이 할당 되어있는걸 알 수 있다.
 
-<img src="/assets/images/ascll_table.png" width->
+<img src="/assets/img/ascll_table.png" width->
 
 ASCII 코드는 영문을 표시하기에는 부족함이 없었지만 다른 언어를 표현하기에
 7 bit 로는 부족했고 이를 극복하기 위해 1 bit 를 확장한 8 bit 의 ASCII 코드가 나왔는데
