@@ -4,7 +4,9 @@ icon: fas fa-info
 order: 4
 ---
 
----
+
+<img src="/assets/img/cover7.jpg" width->
+
 # Intro
 > 이 블로그는 제가 그동안 경험하고 공부했던 내용들을 정리하기 위해 만들었습니다.<br/>
 주로 [Spring][3]으로 웹 프로젝트를 수행 했으며, 풀스택 개발자기 되기 위해,<br/>
